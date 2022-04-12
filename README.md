@@ -51,8 +51,9 @@ For Step 6, run the Python file. <br>
 
 # Configuring the World 
 NOTE: 
-1. Each configuration should be a new terminal as the configuration scripts are blocking. 
-2. Configuration terminals should only be started after the server has been started. 
+- Each configuration should be a new terminal as the configuration scripts are blocking. 
+- Configuration terminals should only be started after the server has been started. 
+<br>
 
 1. Enter the carla venv.
     `C:\Users\drivesim\carla-env\Scripts\activate.bat`

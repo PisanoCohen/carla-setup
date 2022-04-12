@@ -56,10 +56,10 @@ NOTE:
 
 1. Enter the carla venv.
     `C:\Users\drivesim\carla-env\Scripts\activate.bat`
-3. CD into the folder containing the Python files (including the config. scripts)
+3. CD into the folder containing the Python files (including the config. scripts) <br>
     `cd C:\Users\drivesim\Carla Quick Start\WindowsNoEditor\PythonAPI\examples`
-5. Run the config. scripts
-    6. Traffic Generation 
-        `.\generate_traffic.py -n 80`
-    8. Weather
-        `./dynamic_weather.py`
+5. Run the config. scripts <br>
+    - Traffic Generation <br>
+        `.\generate_traffic.py -n 80` <br>
+    - Weather <br>
+        `.\dynamic_weather.py`

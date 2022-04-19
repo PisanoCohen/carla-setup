@@ -55,7 +55,7 @@ NOTE:
 - Configuration terminals should only be started after the server has been started. 
 <br>
 
-1. Enter the carla venv.
+1. Enter the carla venv. <br>
     `C:\Users\drivesim\carla-env\Scripts\activate.bat`
 3. CD into the folder containing the Python files (including the config. scripts) <br>
     `cd C:\Users\drivesim\Carla Quick Start\WindowsNoEditor\PythonAPI\examples`
